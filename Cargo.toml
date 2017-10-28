@@ -1,0 +1,6 @@
+[package]
+name = "pinteger"
+version = "0.1.0"
+authors = ["Scott McMurray <scottmcm@users.noreply.github.com>"]
+
+[dependencies]
