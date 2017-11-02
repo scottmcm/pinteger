@@ -6,3 +6,8 @@ description = "Positive integer types"
 license = "AFL-3.0"
 
 [dependencies]
+
+[features]
+default = ["std"]
+std = []
+nightly = []
